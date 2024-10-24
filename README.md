@@ -4,7 +4,11 @@
 <img width="100%" src="https://github.com/ashish2026/ashish2026/blob/main/resource/Banner.jpg?raw=true" alt="ashish_cover" />
 </div>
 <h1 align="center">Hi <img src = "https://github.com/ashish2026/ashish2026/blob/main/resource/HI.gif?raw=true" width="50px" height="50px">, I'm ASHISH</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">A passionate front-end developer and open source contributor on GitHub.</h3>
+<h5 align="center">
+ I love building web applications, collaborating with developers, and contributing to meaningful open-source projects.
+</h5>
+
 <h3 align="center">Currently I'm studying in Chemical Engineering and Polymer Science at Shahjalal University of Science and Technology</h3>
 
 <br>
@@ -33,7 +37,7 @@
   <a href="https://facebook.com/aeuler" target="_blank">
     <img src="https://img.shields.io/badge/FB%20Profile-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Profile" />
   </a>
-  <a href="https://www.youtube.com/c/YOUR_CHANNEL_NAME" target="_blank">
+  <a href="https://www.youtube.com/c/ashish" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
  <a href="mailto:contactashish2003@gmail.com" target="_blank">
@@ -44,31 +48,50 @@
 
 <br>
 
-<h2 align="center">Languages I know</h2>
+
+<h2 align="center">Languages and Technologies I Know</h2>
 
 <p align="center">
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/HTML.png?raw=true" alt="HTML" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/CSS.png?raw=true" alt="CSS" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/Bootstrap.png?raw=true" alt="Bootstrap" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/Tailwind.png?raw=true" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="105" height="40" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" width="105" height="40" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/JavaScript.png?raw=true" alt="JavaScript" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/React.png?raw=true" alt="React" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/ReactRouterDom.png?raw=true" alt="React Router Dom" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/Firebase.png?raw=true" alt="Firebase" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="105" height="40" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" width="105" height="40" />
+  <img src="https://img.shields.io/badge/React_Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" width="105" height="40" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/Nodejs.png?raw=true" alt="Node.js" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/Express.png?raw=true" alt="Express" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/MongoDB.png?raw=true" alt="MongoDB" />
-  <img height="150" src="https://github.com/ashish2026/ashish2026/blob/main/images/JWT.png?raw=true" alt="JWT" />
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" width="105" height="40" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="105" height="40" />
+  <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" width="105" height="40" />
 </p>
 
 <br>
 
+<div align="center">
+# Featured Projects
+
+Here are some of my latest and active projects that showcase my skills and experience. More exciting projects will be added soon!
+
+
+| Project Name                | Description                                | Live Link                                           | Source Code                                         |
+|-----------------------------|--------------------------------------------|----------------------------------------------------|----------------------------------------------------|
+| World Tour by React          | REST Country API tour using React.js       | [View Live](https://rest-country-api-tour.netlify.app/) | [GitHub](https://github.com/ashish2026/World-tour-by-react) |
+| BikerZone                    | Project about bike products by tailwind               | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/ashish2026/BikerZone)   |
+| TeaHouse                     | Tea house website by tailwind                         | [View Live](https://tea-shop-ashish.netlify.app/)         | [GitHub](https://github.com/ashish2026/TeaHouse)    |
+| DaisyMan                     | Tshirt sell project by tailwind.      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/ashish2026/DaisyMan)    |
+| Bank Calculation            | Bank project by JavaScript | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/ashish2026/bap-er-bank-recap) |
+
+</div>
+
+<br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish2026&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
@@ -76,7 +99,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish2026&show_icons=true&locale=en" alt="GitHub Stats" />
+  
 </div>
 
 <br>
@@ -84,9 +107,25 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2026" alt="GitHub Streak" />
 </div>
+
 <div align="center">
-<h2 align="center">Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<p><a href="https://buymeacoffee.com/ashishadhin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashish" /></a></p>
+   <h2 align="center">
+      Support Me 
+      <img src="https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+   </h2>
+   <p>
+      <a href="https://buymeacoffee.com/ashishadhin">
+         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashish" style="margin: 10px 0;" />
+      </a>
+   </p>
+   <hr style="width: 50%; border: 1px solid #e1e4e8;" />
 </div>
 
-![Waves](https://raw.githubusercontent.com/ashish2026/ashish2026/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg)
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+   <img src="https://github.githubassets.com/assets/profile-joined-github-dark-6369d0efb8b9.svg" alt="euler" style="width: 45%; margin: 10px;" />
+   <img src="https://github.githubassets.com/assets/profile-first-repo-dark-25579720acb4.svg" alt="euler" style="width: 45%; margin: 10px;" />
+</div>
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/ashish2026/ashish2026/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg" alt="Waves" width="100%" />
+</div>
