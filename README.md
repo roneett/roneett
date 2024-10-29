@@ -74,19 +74,20 @@
 
 <br>
 
-<div align="center">
-# Featured Projects
 
-Here are some of my latest and active projects that showcase my skills and experience. More exciting projects will be added soon!
+<div align="center">
+<h2 align="center">Featured Projects</h2>
+
+Here are some of my recent projects that showcase my skills and experience. More exciting projects will be added soon!
 
 
 | Project Name                | Description                                | Live Link                                           | Source Code                                         |
 |-----------------------------|--------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-| World Tour by React          | REST Country API tour using React.js       | [View Live](https://rest-country-api-tour.netlify.app/) | [GitHub](https://github.com/ashish2026/World-tour-by-react) |
-| BikerZone                    | Project about bike products by tailwind               | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/ashish2026/BikerZone)   |
-| TeaHouse                     | Tea house website by tailwind                         | [View Live](https://tea-shop-ashish.netlify.app/)         | [GitHub](https://github.com/ashish2026/TeaHouse)    |
-| DaisyMan                     | Tshirt sell project by tailwind.      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/ashish2026/DaisyMan)    |
-| Bank Calculation            | Bank project by JavaScript | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/ashish2026/bap-er-bank-recap) |
+| World Tour by React          | REST Country API tour using React.js       | [View Live](https://rest-country-api-tour.netlify.app/) | [GitHub](https://github.com/euler-ashish/World-tour-by-react) |
+| BikerZone                    | Project about bike products by tailwind               | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/euler-ashish/BikerZone)   |
+| TeaHouse                     | Tea house website by tailwind                         | [View Live](https://tea-shop-ashish.netlify.app/)         | [GitHub](https://github.com/euler-ashish/TeaHouse)    |
+| DaisyMan                     | Tshirt sell project by tailwind.      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/euler-ashish/DaisyMan)    |
+| Bank Calculation            | Bank project by JavaScript | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/euler-ashish/bap-er-bank-recap) |
 
 </div>
 
@@ -95,14 +96,16 @@ Here are some of my latest and active projects that showcase my skills and exper
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish2026&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
-
 <br>
 
 <div align="center">
-  
-</div>
 
-<br>
+![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=ashish2026&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+![ASHISH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish2026&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2026" alt="GitHub Streak" />
