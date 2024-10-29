@@ -1,9 +1,9 @@
 <div align="center">
  
  
-<img width="100%" src="https://github.com/ashish2026/ashish2026/blob/main/resource/Banner.jpg?raw=true" alt="ashish_cover" />
+<img width="100%" src="https://github.com/npmashish/npmashish/blob/main/resource/Banner.jpg?raw=true" alt="ashish_cover" />
 </div>
-<h1 align="center">Hi <img src = "https://github.com/ashish2026/ashish2026/blob/main/resource/HI.gif?raw=true" width="50px" height="50px">, I'm ASHISH</h1>
+<h1 align="center">Hi <img src = "https://github.com/npmashish/npmashish/blob/main/resource/HI.gif?raw=true" width="50px" height="50px">, I'm ASHISH</h1>
 <h3 align="center">A passionate front-end developer and open source contributor on GitHub.</h3>
 <h5 align="center">
  I love building web applications, collaborating with developers, and contributing to meaningful open-source projects.
@@ -22,7 +22,7 @@
   <a href="https://twitter.com/megashish" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.npmjs.com/~ashish2026" target="_blank">
+  <a href="https://www.npmjs.com/~npmashish" target="_blank">
     <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   </a>
   <a href="https://codeforces.com/profile/ashish.adhikari" target="_blank">
@@ -83,32 +83,32 @@ Here are some of my recent projects that showcase my skills and experience. More
 
 | Project Name                | Description                                | Live Link                                           | Source Code                                         |
 |-----------------------------|--------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-| World Tour by React          | REST Country API tour using React.js       | [View Live](https://rest-country-api-tour.netlify.app/) | [GitHub](https://github.com/euler-ashish/World-tour-by-react) |
-| BikerZone                    | Project about bike products by tailwind               | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/euler-ashish/BikerZone)   |
-| TeaHouse                     | Tea house website by tailwind                         | [View Live](https://tea-shop-ashish.netlify.app/)         | [GitHub](https://github.com/euler-ashish/TeaHouse)    |
-| DaisyMan                     | Tshirt sell project by tailwind.      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/euler-ashish/DaisyMan)    |
-| Bank Calculation            | Bank project by JavaScript | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/euler-ashish/bap-er-bank-recap) |
+| World Tour by React          | REST Country API tour using React.js       | [View Live](https://rest-country-api-tour.netlify.app/) | [GitHub](https://github.com/npmashish/World-tour-by-react) |
+| BikerZone                    | Project about bike products by tailwind               | [View Live](https://bike-view.netlify.app/)         | [GitHub](https://github.com/npmashish/BikerZone)   |
+| TeaHouse                     | Tea house website by tailwind                         | [View Live](https://tea-shop-ashish.netlify.app/)         | [GitHub](https://github.com/npmashish/TeaHouse)    |
+| DaisyMan                     | Tshirt sell project by tailwind.      | [View Live](https://daisymen.netlify.app/)          | [GitHub](https://github.com/npmashish/DaisyMan)    |
+| Bank Calculation            | Bank project by JavaScript | [View Live](https://bank-assess.netlify.app/)       | [GitHub](https://github.com/npmashish/bap-er-bank-recap) |
 
 </div>
 
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish2026&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=npmashish&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 <br>
 
 <div align="center">
 
-![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=ashish2026&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=npmashish&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-![ASHISH's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish2026&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+![ASHISH's GitHub stats](https://github-readme-stats.vercel.app/api?username=npmashish&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish2026" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=npmashish" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -130,5 +130,5 @@ Here are some of my recent projects that showcase my skills and experience. More
 </div>
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/ashish2026/ashish2026/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg" alt="Waves" width="100%" />
+   <img src="https://raw.githubusercontent.com/npmashish/npmashish/24d7f5ab451e9b8ba5e2058bee10633c87f1514e/resource/wave_ashish.svg" alt="Waves" width="100%" />
 </div>
