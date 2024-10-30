@@ -72,6 +72,21 @@
   <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" width="105" height="40" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" width="105" height="40" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="105" height="40" />
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Docker-%2336B8E2.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="105" height="40" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" width="105" height="40" />
+  <img src="https://img.shields.io/badge/Vitest-%23000000.svg?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" width="105" height="40" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%233F5E8D.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="105" height="40" />
+</p>
+
+
 <br>
 
 
